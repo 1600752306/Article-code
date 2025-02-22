@@ -12,5 +12,7 @@ https://pan.baidu.com/s/1ELr7UCnZWeO7gWCPWWwcCg?pwd=4321 password: 4321
 
 
 1、Use the requirements.txt installation package，
+
 2、Run infer_gui_3_no_plc.py
+
 3、Chose real-time recognition（实时识别）
